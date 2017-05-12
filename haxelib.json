@@ -1,0 +1,10 @@
+{
+    "name": "simple-ui",
+    "url" : "http://samcodes.co.uk/code/",
+    "license": "MIT",
+    "tags": ["game", "flixel", "openfl", "flash", "neko", "cpp", "android", "ios", "cross"],
+    "description": "A simple UI framework for HaxeFlixel",
+    "version": "1.0.0",
+    "releasenote": "Initial release",
+    "contributors": ["sam twidale"]
+}
